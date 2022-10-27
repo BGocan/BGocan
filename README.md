@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BGocan
-- 👀 I’m a Mechanical Engineering student interested in learning new things which can help me improve the efficiencies of processes.
+- 👀 I’m a Quality Assurance Engineer eager to learn new skills.
 - 🌱 I’m currently learning machine learning as well as different automation processes.
 - 💞️ I’m looking to collaborate on engineering projects, financial projects and AI projects.
 - 📫 You can easily reach me by messaging me here or at my email (provided upon request)
